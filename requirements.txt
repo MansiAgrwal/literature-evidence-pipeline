@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+openpyxl
+biopython
+rapidfuzz
+scikit-learn
+networkx
